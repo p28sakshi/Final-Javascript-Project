@@ -1,3 +1,4 @@
+// ========================Done By  Jaydeep, Hani, Sushma Shergill, Bobby==================
 
 document.querySelectorAll(".selNav").forEach((ele) =>
   ele.addEventListener("click", function (event) {

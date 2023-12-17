@@ -1,3 +1,5 @@
+// ========================Done By Sushma Shergill==================
+
 let menu = document.querySelector("#menu-bar");
 let navbar = document.querySelector(".navbar");
 let searchBtn = document.querySelector("#search-btn");
